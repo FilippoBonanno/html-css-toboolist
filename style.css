@@ -12,6 +12,7 @@ main {
     height: 100vh;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
     background-color: white;
 }
 
@@ -119,4 +120,8 @@ h3 {
 
 .arrow {
     font-size: small;
+}
+
+hr {
+    border: 1px solid lightgrey;
 }
