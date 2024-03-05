@@ -49,8 +49,9 @@ h3 {
 }
 
 .buttom-1, .buttom-2 {
+    border: 1px solid;
     border-radius: 7px;
-    padding: 5px;
+    padding: 8px;
 }
 
 .buttom-1 {
@@ -119,3 +120,6 @@ h3 {
     background-color: aqua;
 }
 
+.arrow {
+    font-size: small;
+}
