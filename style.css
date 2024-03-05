@@ -4,28 +4,26 @@
     box-sizing: border-box;
 }
 
-.container {
-    width: 100%;
+main {
+    width: 70%;
     height: 100vh;
     background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .intestazione > * {
     display: inline-block;
+    vertical-align: middle;
+    line-height: 100px;
 }
 
 .intestazione {
     height: 100px;
-    background-color: black;
-    position: relative;
-    
-    
+    margin-left: 20px;
 }
 
 h1 {
-    background-color: red;
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    font-size: 3em;
 }
 
