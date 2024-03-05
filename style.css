@@ -27,3 +27,20 @@ h1 {
     font-size: 3em;
 }
 
+.buttom {
+    padding: 10px;
+}
+
+.buttom-1, .buttom-2 {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.buttom-1 {
+    color: white;
+    background-color: #47adf1;
+}
+
+.buttom-2 {
+    color: lightslategray;
+}
