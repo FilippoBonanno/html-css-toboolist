@@ -65,7 +65,7 @@ h3 {
 }
 
 .true {
-    padding: 1px;
+    padding: 0 2px;
     border: 1px solid green;
     border-radius: 50%;
     color: green;
@@ -74,9 +74,9 @@ h3 {
 }
 
 .false {
-    padding: 1px;
+    padding: 0 2px;
     border: 1px solid red;
-    border-radius: 100%;
+    border-radius: 50%;
     color: red;
     font-size: 10px;
     vertical-align: middle;
